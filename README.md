@@ -1,5 +1,12 @@
-# 💫 About Me:
-i am currently persuing my btech in 3rd year. i am currently working on fully automated ai jarvis. i have profficient knowledge in coding. i also have learned the data analysis
+# 💫 About Me: Balavantharaya
+### 🚀 About Me
+
+I am a **B.Tech 3rd-year student** focused on engineering intelligent systems and automation. I bridge the gap between software development and data-driven insights to build autonomous, real-world solutions. 
+
+* 🤖 **Flagship Project:** Currently engineering a **Fully Automated AI Jarvis** to streamline autonomous task execution.
+* 🛠️ **Technical Expertise:** Proficient coding fundamentals combined with advanced **Data Analysis** capabilities.
+* 💡 **Core Strengths:** Strong technical problem-solving skills paired with clear, professional communication.
+
 
 
 ## 🌐 Socials:
